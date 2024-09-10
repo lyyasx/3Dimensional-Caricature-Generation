@@ -1,0 +1,36 @@
+experiment_name: rgbdeepdeformable_test31
+logging_root: ./logs-lmk
+summary_root: ./summaries-lmk
+batch_size: 4
+lr: 0.0001
+epochs: 2000
+epochs_til_checkpoint: 20
+steps_til_summary: 100
+model_type: sine
+latent_dim: 256
+hidden_num: 256
+num_hidden_layers: 3
+hyper_hidden_layers: 1
+#checkpoint_path: ./model_dir/rgb_test27/checkpoints/model_epoch_1940.pth
+dir_caricshop: ./dataset/RGB3DCaricShop_raw_t_mesh_eye_plus
+model_dir: ./model_dir/rgb_test31
+summary_dir: ./summary_dir/rgb_test31
+
+# rgb_test11: t_mesh + rgb + raw_mesh尺寸
+# RGB3DCaricShop_raw_t_mesh 由new_tmesh+rgb组成
+
+# rgb_test12: t_mesh + rgb + raw_mesh尺寸, render loss
+# rgb_test13: t_mesh + rgb + raw_mesh尺寸, render loss权重降低
+# rgb_test14: t_mesh + rgb + raw_mesh尺寸, 两个潜码
+# rgb_test14: t_mesh + rgb + raw_mesh尺寸, 两个潜码, render loss
+#rgb_test20: t_mesh 前脸 plus+ rgb + raw_mesh尺寸, 两个潜码, render loss
+#rgb_test21: t_mesh 全部 plus+ rgb, 两个潜码, render loss
+#rgb_test22: t_mesh 全部 plus+ rgb + raw_mesh尺寸, 两个潜码, render loss
+# rgb_test23: 同 test22，增加训练epoch
+# rgb_test24: 同 test23，增加latent_dim/hidden_num至256
+# rgb_test25: 同 test24，增加输出样本mesh
+# rgb_test26: 潜码分开 网络合并
+# rgb_test27: 同 test25, 眼部纹理加密
+# rgb_test28: 同 test27， 去除渲染损失
+# rgb_test29: 同 test27，divide_code_combine_net
+# rgb_test30: 同 test27，combine_code_divide_net

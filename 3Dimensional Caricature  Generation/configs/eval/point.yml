@@ -1,0 +1,16 @@
+experiment_name: rgbdeepdeformable_test27
+logging_root: ./logs-lmk
+summary_root: ./summaries-lmk
+batch_size: 1
+lr: 0.0001
+epochs: 100
+epochs_til_checkpoint: 50
+steps_til_summary: 100
+model_type: sine
+latent_dim: 256
+hidden_num: 256
+num_hidden_layers: 3
+hyper_hidden_layers: 1
+checkpoint_path: ./model_dir/rgb_test27/checkpoints/model_epoch_1960.pth
+dir_caricshop: ./dataset/RGB3DCaricShop_raw_t_mesh_eye_plus
+

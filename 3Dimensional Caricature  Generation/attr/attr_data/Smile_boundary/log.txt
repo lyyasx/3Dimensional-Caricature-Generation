@@ -1,0 +1,80 @@
+[2023-11-07 20:44:37,980][INFO] Filtering training data.
+[2023-11-07 20:44:37,980][INFO] Sorting scores to get positive and negative samples.
+[2023-11-07 20:44:37,980][INFO] Spliting training and validation sets:
+[2023-11-07 20:44:37,980][INFO]   Training: 180 positive, 180 negative.
+[2023-11-07 20:44:37,980][INFO]   Validation: 45 positive, 45 negative.
+[2023-11-07 20:44:37,980][INFO]   Remaining: 81 positive, 0 negative.
+[2023-11-07 20:44:37,980][INFO] Training boundary.
+[2023-11-07 20:44:37,985][INFO] Finish training.
+[2023-11-07 20:44:37,986][INFO] Accuracy for validation set: 58 / 90 = 0.644444
+[2023-11-07 20:44:37,987][INFO] Accuracy for remaining set: 31 / 81 = 0.382716
+[2023-11-07 21:06:12,196][INFO] Filtering training data.
+[2023-11-07 21:06:12,196][INFO] Sorting scores to get positive and negative samples.
+[2023-11-07 21:06:12,203][INFO] Spliting training and validation sets:
+[2023-11-07 21:06:12,203][INFO]   Training: 180 positive, 180 negative.
+[2023-11-07 21:06:12,203][INFO]   Validation: 45 positive, 45 negative.
+[2023-11-07 21:06:12,203][INFO]   Remaining: 81 positive, 0 negative.
+[2023-11-07 21:06:12,203][INFO] Training boundary.
+[2023-11-07 21:06:12,207][INFO] Finish training.
+[2023-11-07 21:06:12,208][INFO] Accuracy for validation set: 59 / 90 = 0.655556
+[2023-11-07 21:06:12,209][INFO] Accuracy for remaining set: 40 / 81 = 0.493827
+[2023-11-07 21:22:37,828][INFO] Filtering training data.
+[2023-11-07 21:22:37,828][INFO] Sorting scores to get positive and negative samples.
+[2023-11-07 21:22:37,828][INFO] Spliting training and validation sets:
+[2023-11-07 21:22:37,828][INFO]   Training: 180 positive, 180 negative.
+[2023-11-07 21:22:37,828][INFO]   Validation: 45 positive, 45 negative.
+[2023-11-07 21:22:37,828][INFO]   Remaining: 81 positive, 0 negative.
+[2023-11-07 21:22:37,828][INFO] Training boundary.
+[2023-11-07 21:22:37,832][INFO] Finish training.
+[2023-11-07 21:22:37,833][INFO] Accuracy for validation set: 68 / 90 = 0.755556
+[2023-11-07 21:22:37,834][INFO] Accuracy for remaining set: 35 / 81 = 0.432099
+[2023-11-07 21:23:26,422][INFO] Filtering training data.
+[2023-11-07 21:23:26,422][INFO] Sorting scores to get positive and negative samples.
+[2023-11-07 21:23:26,422][INFO] Spliting training and validation sets:
+[2023-11-07 21:23:26,422][INFO]   Training: 180 positive, 180 negative.
+[2023-11-07 21:23:26,422][INFO]   Validation: 45 positive, 45 negative.
+[2023-11-07 21:23:26,422][INFO]   Remaining: 81 positive, 0 negative.
+[2023-11-07 21:23:26,422][INFO] Training boundary.
+[2023-11-07 21:23:26,426][INFO] Finish training.
+[2023-11-07 21:23:26,427][INFO] Accuracy for validation set: 69 / 90 = 0.766667
+[2023-11-07 21:23:26,428][INFO] Accuracy for remaining set: 35 / 81 = 0.432099
+[2023-11-07 21:38:16,578][INFO] Filtering training data.
+[2023-11-07 21:38:16,578][INFO] Sorting scores to get positive and negative samples.
+[2023-11-07 21:38:16,578][INFO] Spliting training and validation sets:
+[2023-11-07 21:38:16,578][INFO]   Training: 180 positive, 180 negative.
+[2023-11-07 21:38:16,578][INFO]   Validation: 45 positive, 45 negative.
+[2023-11-07 21:38:16,578][INFO]   Remaining: 81 positive, 0 negative.
+[2023-11-07 21:38:16,578][INFO] Training boundary.
+[2023-11-07 21:38:16,582][INFO] Finish training.
+[2023-11-07 21:38:16,583][INFO] Accuracy for validation set: 55 / 90 = 0.611111
+[2023-11-07 21:38:16,584][INFO] Accuracy for remaining set: 29 / 81 = 0.358025
+[2023-11-09 08:17:27,529][INFO] Filtering training data.
+[2023-11-09 08:17:27,529][INFO] Sorting scores to get positive and negative samples.
+[2023-11-09 08:17:27,529][INFO] Spliting training and validation sets:
+[2023-11-09 08:17:27,529][INFO]   Training: 180 positive, 180 negative.
+[2023-11-09 08:17:27,530][INFO]   Validation: 45 positive, 45 negative.
+[2023-11-09 08:17:27,530][INFO]   Remaining: 81 positive, 0 negative.
+[2023-11-09 08:17:27,530][INFO] Training boundary.
+[2023-11-09 08:17:27,534][INFO] Finish training.
+[2023-11-09 08:17:27,535][INFO] Accuracy for validation set: 68 / 90 = 0.755556
+[2023-11-09 08:17:27,536][INFO] Accuracy for remaining set: 33 / 81 = 0.407407
+[2023-11-12 22:15:12,295][INFO] Filtering training data.
+[2023-11-12 22:15:12,296][INFO] Sorting scores to get positive and negative samples.
+[2023-11-12 22:15:12,296][INFO] Spliting training and validation sets:
+[2023-11-12 22:15:12,297][INFO]   Training: 180 positive, 180 negative.
+[2023-11-12 22:15:12,297][INFO]   Validation: 45 positive, 45 negative.
+[2023-11-12 22:15:12,297][INFO]   Remaining: 81 positive, 0 negative.
+[2023-11-12 22:15:12,297][INFO] Training boundary.
+[2023-11-12 22:15:12,304][INFO] Finish training.
+[2023-11-12 22:15:12,306][INFO] Accuracy for validation set: 67 / 90 = 0.744444
+[2023-11-12 22:15:12,306][INFO] Accuracy for remaining set: 41 / 81 = 0.506173
+[2023-11-12 22:18:13,122][INFO] Filtering training data.
+[2023-11-12 22:18:13,123][INFO] Sorting scores to get positive and negative samples.
+[2023-11-12 22:18:13,123][INFO] Spliting training and validation sets:
+[2023-11-12 22:18:13,123][INFO]   Training: 180 positive, 180 negative.
+[2023-11-12 22:18:13,123][INFO]   Validation: 45 positive, 45 negative.
+[2023-11-12 22:18:13,123][INFO]   Remaining: 81 positive, 0 negative.
+[2023-11-12 22:18:13,123][INFO] Training boundary.
+[2023-11-12 22:18:13,129][INFO] Finish training.
+[2023-11-12 22:18:13,130][INFO] Accuracy for validation set: 70 / 90 = 0.777778
+[2023-11-12 22:18:13,131][INFO] Accuracy for remaining set: 45 / 81 = 0.555556
